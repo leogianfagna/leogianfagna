@@ -6,12 +6,13 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leogianfagna&theme=tokyonight&hide_border=true&include_all_commits=false&bg_color=00000000&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="leogianfagna" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leogianfagna&theme=blueberry&bg_color=00000000&hide_border=true" alt="leogianfagna" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leogianfagna&theme=blueberry&bg_color=00000000&hide_border=true" alt="leogianfagna" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=leogianfagna&theme=blueberry&bg_color=00000000&hide_border=true" alt="leogianfagna" /></p>
 
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=leogianfagna&icon=0&color=12)](https://visitcount.itsvg.in)
-  
+  <!-- <p align="center" style="display:none;"> <img src="https://komarev.com/ghpvc/?username=leogianfagna&color=blueviolet&style=flat-square" alt="Profile views" /></p> -->
 </div>
 
 <!-- <p align="center"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=leogianfagna" alt="leogianfagna" /></p> <!-- &theme=radical&no-frame=true&no-bg=false&margin-w=4 
