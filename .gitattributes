@@ -1,1 +1,1 @@
-README.md linguist-detectable
+*.md linguist-detectable=true
