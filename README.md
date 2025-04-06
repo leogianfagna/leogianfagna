@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogianfagna&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&custom_title=Languages" alt="leogianfagna" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogianfagna&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&custom_title=Languages&hide=jupyter%20notebook" alt="leogianfagna" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=leogianfagna&theme=tokyonight&hide_border=true&include_all_commits=false&bg_color=00000000&show_icons=true&hide=contribs&show=prs_merged_percentage" alt="leogianfagna" />
 </p>
 
