@@ -1,4 +1,10 @@
-
+<!-- 
+60d6a9 -> 29b36c
+e34c26 -> f74643
+663399 -> aef059
+c6538c -> ff6996
+3178c6 -> 2160ff
+-->
       <svg
         width="300"
         height="190"
@@ -142,7 +148,7 @@
           y="0"
           width="50.62"
           height="8"
-          fill="#3572A5"
+          fill="#29b36c"
         />
       
         <rect
@@ -152,7 +158,7 @@
           y="0"
           width="26.33"
           height="8"
-          fill="#e34c26"
+          fill="#f74643"
         />
       
         <rect
@@ -172,7 +178,7 @@
           y="0"
           width="19.54"
           height="8"
-          fill="#663399"
+          fill="#aef059"
         />
       
         <rect
@@ -192,7 +198,7 @@
           y="0"
           width="17.22"
           height="8"
-          fill="#c6538c"
+          fill="#ff6996"
         />
       
         <rect
@@ -202,7 +208,7 @@
           y="0"
           width="14.8"
           height="8"
-          fill="#3178c6"
+          fill="#2160ff"
         />
       
       
@@ -216,14 +222,14 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#29b36c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 20.25%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#f74643" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         HTML 10.53%
       </text>
@@ -237,7 +243,7 @@
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#aef059" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         CSS 7.81%
       </text>
@@ -251,14 +257,14 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#c6538c" />
+      <circle cx="5" cy="6" r="5" fill="#ff6996" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SCSS 2.89%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#2160ff" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         TypeScript 1.92%
       </text>
